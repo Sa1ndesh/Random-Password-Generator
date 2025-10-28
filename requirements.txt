@@ -1,0 +1,11 @@
+# Random Password Generator - Dependencies
+# 
+# For the basic command-line version, no external dependencies are required.
+# For the advanced GUI version with clipboard functionality:
+
+pyperclip==1.8.2
+
+# Optional dependencies for future enhancements:
+# tkinter (usually comes with Python installation)
+# PyQt5==5.15.9 (alternative GUI framework)
+# cryptography==41.0.7 (for advanced security features)
